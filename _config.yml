@@ -1,1 +1,8 @@
 
+title: R Resources Hub
+description: INF Projekct Resources
+theme: minima
+
+header_pages:
+  - index.md
+  - packages.md
