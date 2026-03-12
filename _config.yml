@@ -4,6 +4,6 @@ theme: minima
 
 header_pages:
   - index.md
-  - papiere.md
-  - daten.md
+  - papers.md
+  - data.md
   - packages.md
