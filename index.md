@@ -1,9 +1,7 @@
 ---
 layout: home
-title: TRR Wiki
+title: Home
 ---
-
-![TRR Wiki Logo](assets/logo.svg)
 
 # Welcome to TRR Wiki
 
