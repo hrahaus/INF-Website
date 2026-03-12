@@ -1,1 +1,38 @@
+---
+---
 
+@import "minima";
+
+/* Header */
+.site-header {
+  background-color: #2d6a4f;
+  border-top: none;
+}
+
+/* Header title + nav links */
+.site-title,
+.site-title:visited,
+.site-nav .page-link {
+  color: #ffffff;
+}
+
+/* Nav link hover */
+.site-nav .page-link:hover {
+  color: #b7e4c7;
+}
+
+/* Link color on pages */
+a {
+  color: #2d6a4f;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #1b4332;
+  color: #b7e4c7;
+  border-top: none;
+}
+
+.site-footer a {
+  color: #b7e4c7;
+}
