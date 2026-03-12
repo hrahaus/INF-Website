@@ -1,44 +1,37 @@
 ---
-
 ---
 
 @import "minima";
 
-/* Header */
 .site-header {
-  background-color: #2d6a4f;
-  border-top: none;
+  background-color: #2d6a4f !important;
+  border-top: none !important;
 }
 
-/* Header title + nav links */
 .site-title,
 .site-title:visited,
 .site-nav .page-link {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
-/* Nav link hover */
 .site-nav .page-link:hover {
-  color: #b7e4c7;
+  color: #b7e4c7 !important;
 }
 
-/* Link color on pages */
 a {
-  color: #2d6a4f;
+  color: #2d6a4f !important;
 }
 
-/* Footer */
 .site-footer {
-  background-color: #1b4332;
-  color: #b7e4c7;
-  border-top: none;
+  background-color: #1b4332 !important;
+  color: #b7e4c7 !important;
+  border-top: none !important;
 }
 
 .site-footer a {
-  color: #b7e4c7;
+  color: #b7e4c7 !important;
 }
 
-/* Footer – hide duplicate site title */
 .site-footer .footer-col-wrapper {
-  display: none;
+  display: none !important;
 }
