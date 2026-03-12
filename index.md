@@ -3,8 +3,6 @@ layout: home
 title: Overview
 ---
 
-# Welcome to TRR Wiki
-
 <div style="display: flex; gap: 20px; margin-top: 20px;">
 
   <div style="flex: 1; padding: 15px; border: 1px solid #ddd; border-radius: 8px;">
