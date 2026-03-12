@@ -1,8 +1,9 @@
-
-title: Resource Hub
-description: INF Project Resources
+title: TRR Wiki
+description: TRR Project Resources
 theme: minima
 
 header_pages:
   - index.md
+  - papiere.md
+  - daten.md
   - packages.md
