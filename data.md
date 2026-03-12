@@ -10,10 +10,7 @@ Datasets provided by the Research Data Center Ruhr (FDZ Ruhr) at RWI Essen.
 ---
 
 ## 🚗 RWI-GEO-CARMKT
-Used car listings from AutoScout24, covering a wide range of vehicles with detailed attributes such as manufacturer, model, fuel type, mileage, and price. Includes regional data at postcode level. Available as a free Scientific Use File (SUF) for research purposes.
-
-- **Coverage:** January 2019 – December 2024
-- **Region:** Germany
+Used car listings from AutoScout24
 
 🔗 [More information](https://www.rwi-essen.de/forschung-beratung/weitere/forschungsdatenzentrum-ruhr/datenangebot/rwi-geo-carmkt)
 
