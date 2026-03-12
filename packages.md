@@ -3,8 +3,6 @@ layout: page
 title: R Packages
 ---
 
-# R Packages
-
 A collection of useful R packages for the TRR project.
 
 ---
