@@ -36,3 +36,8 @@ a {
 .site-footer a {
   color: #b7e4c7;
 }
+
+/* Footer – hide duplicate site title */
+.site-footer .footer-col-wrapper {
+  display: none;
+}
