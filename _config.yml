@@ -1,6 +1,8 @@
 title: TRR Wiki
 description: TRR Project Resources
 theme: minima
+baseurl: "/INF-Website"
+url: "https://hrahaus.github.io"
 
 header_pages:
   - index.md
